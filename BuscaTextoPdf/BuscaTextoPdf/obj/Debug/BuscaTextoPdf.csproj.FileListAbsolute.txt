@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\bin\Debug\BuscaTextoPdf.exe.config
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\bin\Debug\BuscaTextoPdf.exe
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\bin\Debug\BuscaTextoPdf.pdb
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\bin\Debug\itextsharp.dll
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\bin\Debug\itextsharp.xml
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\obj\Debug\BuscaTextoPdf.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\obj\Debug\BuscaTextoPdf.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\obj\Debug\BuscaTextoPdf.csproj.CopyComplete
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\obj\Debug\BuscaTextoPdf.exe
+C:\Users\PC\source\repos\BuscaTextoPdf\BuscaTextoPdf\obj\Debug\BuscaTextoPdf.pdb
